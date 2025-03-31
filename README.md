@@ -2,9 +2,7 @@
 **AI Engineer | Generative AI Researcher | Builder of Intelligent Systems**  
 *Reimagining the Boundaries of Machine Intelligence*  
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pjmreddy14)  
-[![GitHub](https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat&logo=github)](https://github.com/pjmreddy)  
-[![Email](https://img.shields.io/badge/Reach%20Out-Email-EA4335?style=flat&logo=gmail)](mailto:peravali810@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pjmreddy14) [![GitHub](https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat&logo=github)](https://github.com/pjmreddy)
 
 ---
 
