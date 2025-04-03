@@ -1,4 +1,4 @@
-# 🌌 Jaganmohan Reddy Peravali  
+# 🫅 Jaganmohan Reddy Peravali  
 **AI Engineer | Generative AI Researcher | Builder of Intelligent Systems**  
 *Reimagining the Boundaries of Machine Intelligence*  
 
