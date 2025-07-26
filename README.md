@@ -9,7 +9,7 @@
 ---
 
 ### 🔮 **About Me**  
-I've an AI/ML Engineer and am currently working on various AI projects while actively looking for job opportunities. My work focuses on developing and implementing generative AI models that solve real-world problems, leveraging Agentic AI, MCP servers, Agents, and frameworks like Langchain, LangGraph to build sophisticated systems. A key aspect of my work involves Retrieval-Augmented Generation (RAG), enabling advanced information retrieval and generation tasks.
+I've an AI/ML Engineer(Data Scientist) and am currently working on various AI projects while actively looking for job opportunities. My work focuses on developing and implementing generative AI models that solve real-world problems, leveraging Agentic AI, MCP servers, Agents, and frameworks like Langchain, LangGraph to build sophisticated systems. A key aspect of my work involves Retrieval-Augmented Generation (RAG), enabling advanced information retrieval and generation tasks.
 
 With a strong foundation in machine learning, deep learning, and natural language processing, I am passionate about pushing the boundaries of AI technology, particularly in healthcare and customer support. I'm excited about the potential of AI to enhance human-computer interactions and drive operational efficiency across industries.
 
